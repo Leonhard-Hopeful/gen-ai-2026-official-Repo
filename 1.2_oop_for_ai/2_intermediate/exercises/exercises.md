@@ -1,11 +1,18 @@
-# Exercises: 1.2 Oop For Ai
+# Exercises — 1.2 Oop For Ai 2 Intermediate
 
-This exercise set supports the 2 Intermediate level. Complete each challenge to master the module.
+Complete these challenges to strengthen your understanding and build confidence.
 
-1. **Exercise 1**: Describe what you learned from `Polymorphism and abstract design` and provide one working example.
-2. **Exercise 2**: Describe what you learned from `Composition and reusable AI components` and provide one working example.
-3. **Exercise 3**: Describe what you learned from `OOP design patterns for AI` and provide one working example.
-4. **Exercise 4**: Describe what you learned from `Polymorphism and abstract design` and provide one working example.
-5. **Exercise 5**: Describe what you learned from `Composition and reusable AI components` and provide one working example.
+## 1. Polymorphism
 
-Bonus: Create a mini project that ties together the main topics in this module.
+Write a loop that calls the same method on two different object types and prints results.
+
+## 2. Composition
+
+Build a class that contains another object and uses it to perform a task.
+
+## 3. Design Patterns
+
+Choose one design pattern and explain how it helps structure code in an AI project.
+
+## Bonus exercise
+Create a short notebook or lesson outline that connects all three topics in this module. Include one real-world example and one teaching tip.

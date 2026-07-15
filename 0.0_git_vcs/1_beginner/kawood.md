@@ -1,43 +1,36 @@
-# Kawood Quiz: 0.0 Git Vcs 1 Beginner
+# Kawood Quiz — 0.0 Git Vcs 1 Beginner
 
-Use these multiple-choice questions for interactive review sessions.
+Answer these multiple-choice questions to unlock the next course challenge.
 
-## Question 1
-What is the primary purpose of Git Basics?
-- A. To ...
-- B. To ...
-- C. To ...
-- D. To ...
+## Question 1: Git Basics
+
+Which statement best describes the primary purpose of Git Basics?
+
+- A. Track snapshots of file changes in the repository.
+- B. Deploy the project to production.
+- C. Install Git on a new machine.
+- D. Run code quality checks automatically.
+
 Answer: A
 
-## Question 2
-When should you use Versioning Workflows?
-- A. For ...
-- B. For ...
-- C. For ...
-- D. For ...
-Answer: C
+## Question 2: Versioning Workflows
 
-## Question 3
-Which statement is true about Collaboration and remote repositories?
-- A. ...
-- B. ...
-- C. ...
-- D. ...
-Answer: B
+Which statement best describes the primary purpose of Versioning Workflows?
 
-## Question 4
-What is a common mistake when applying Git Basics?
-- A. ...
-- B. ...
-- C. ...
-- D. ...
-Answer: D
+- A. Plan how branches and commits flow through the team.
+- B. Encrypt repository files for security.
+- C. Automatically generate a release note.
+- D. Run unit tests before deployment.
 
-## Question 5
-How does Versioning Workflows help AI development?
-- A. ...
-- B. ...
-- C. ...
-- D. ...
-Answer: B
+Answer: A
+
+## Question 3: Collaboration with Git
+
+Which statement best describes the primary purpose of Collaboration with Git?
+
+- A. Use remotes, pushes, and pull requests to work together.
+- B. Manage database migrations for shared data.
+- C. Train machine learning models collaboratively.
+- D. Archive old project folders.
+
+Answer: A

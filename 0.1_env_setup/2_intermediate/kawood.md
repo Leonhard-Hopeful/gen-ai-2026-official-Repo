@@ -1,43 +1,36 @@
-# Kawood Quiz: 0.1 Env Setup 2 Intermediate
+# Kawood Quiz — 0.1 Env Setup 2 Intermediate
 
-Use these multiple-choice questions for interactive review sessions.
+Answer these multiple-choice questions to unlock the next course challenge.
 
-## Question 1
-What is the primary purpose of Managing Python environments?
-- A. To ...
-- B. To ...
-- C. To ...
-- D. To ...
+## Question 1: Environment Management
+
+Which statement best describes the primary purpose of Environment Management?
+
+- A. Manage separate environments for separate projects.
+- B. Install all tools globally with one command.
+- C. Use Git for environment management.
+- D. Store environment variables in the code.
+
 Answer: A
 
-## Question 2
-When should you use Dependencies and package pinning?
-- A. For ...
-- B. For ...
-- C. For ...
-- D. For ...
-Answer: C
+## Question 2: Dependency Management
 
-## Question 3
-Which statement is true about Docker and reproducible environments?
-- A. ...
-- B. ...
-- C. ...
-- D. ...
-Answer: B
+Which statement best describes the primary purpose of Dependency Management?
 
-## Question 4
-What is a common mistake when applying Managing Python environments?
-- A. ...
-- B. ...
-- C. ...
-- D. ...
-Answer: D
+- A. Track and pin package versions for reproducible installs.
+- B. Delete unused packages immediately.
+- C. Install packages from multiple sources without restrictions.
+- D. Use Docker instead of package managers.
 
-## Question 5
-How does Dependencies and package pinning help AI development?
-- A. ...
-- B. ...
-- C. ...
-- D. ...
-Answer: B
+Answer: A
+
+## Question 3: Containerization Basics
+
+Which statement best describes the primary purpose of Containerization Basics?
+
+- A. Define a reproducible environment using containers.
+- B. Run Python scripts faster than native execution.
+- C. Store data files inside Git repositories.
+- D. Automatically scale AI models.
+
+Answer: A

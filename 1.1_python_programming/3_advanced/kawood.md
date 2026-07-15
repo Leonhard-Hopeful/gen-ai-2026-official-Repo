@@ -1,43 +1,36 @@
-# Kawood Quiz: 1.1 Python Programming 3 Advanced
+# Kawood Quiz — 1.1 Python Programming 3 Advanced
 
-Use these multiple-choice questions for interactive review sessions.
+Answer these multiple-choice questions to unlock the next course challenge.
 
-## Question 1
-What is the primary purpose of Testing, debugging, and error handling?
-- A. To ...
-- B. To ...
-- C. To ...
-- D. To ...
+## Question 1: Testing and Debugging
+
+Which statement best describes the primary purpose of Testing and Debugging?
+
+- A. Catch mistakes early with tests and use errors to understand problems.
+- B. Skip tests and fix bugs later.
+- C. Deploy code without checking it first.
+- D. Write tests only after the project is finished.
+
 Answer: A
 
-## Question 2
-When should you use Performance, profiling, and optimization?
-- A. For ...
-- B. For ...
-- C. For ...
-- D. For ...
-Answer: C
+## Question 2: Performance and Optimization
 
-## Question 3
-Which statement is true about Automation scripts and CLI tools?
-- A. ...
-- B. ...
-- C. ...
-- D. ...
-Answer: B
+Which statement best describes the primary purpose of Performance and Optimization?
 
-## Question 4
-What is a common mistake when applying Testing, debugging, and error handling?
-- A. ...
-- B. ...
-- C. ...
-- D. ...
-Answer: D
+- A. Measure and improve code efficiency using better tools and structures.
+- B. Write code as quickly as possible without checking speed.
+- C. Always use complex algorithms first.
+- D. Delay performance work until after deployment only.
 
-## Question 5
-How does Performance, profiling, and optimization help AI development?
-- A. ...
-- B. ...
-- C. ...
-- D. ...
-Answer: B
+Answer: A
+
+## Question 3: Automation Scripts
+
+Which statement best describes the primary purpose of Automation Scripts?
+
+- A. Automate repetitive tasks with scripts so work is faster and less error-prone.
+- B. Run manual commands each time instead of scripts.
+- C. Use scripts only for documentation.
+- D. Avoid writing scripts in Python.
+
+Answer: A

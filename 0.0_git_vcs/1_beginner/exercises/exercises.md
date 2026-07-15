@@ -1,11 +1,18 @@
-# Exercises: 0.0 Git Vcs
+# Exercises — 0.0 Git Vcs 1 Beginner
 
-This exercise set supports the 1 Beginner level. Complete each challenge to master the module.
+Complete these challenges to strengthen your understanding and build confidence.
 
-1. **Exercise 1**: Describe what you learned from `Git Basics` and provide one working example.
-2. **Exercise 2**: Describe what you learned from `Versioning Workflows` and provide one working example.
-3. **Exercise 3**: Describe what you learned from `Collaboration and remote repositories` and provide one working example.
-4. **Exercise 4**: Describe what you learned from `Git Basics` and provide one working example.
-5. **Exercise 5**: Describe what you learned from `Versioning Workflows` and provide one working example.
+## 1. Git Basics
 
-Bonus: Create a mini project that ties together the main topics in this module.
+Initialize a local Git repository, add a file, commit it with a clear message, and explain the three file states in your own words.
+
+## 2. Versioning Workflows
+
+Create a branch and describe a simple workflow for developing a course module without disturbing main. Sketch the branch purpose.
+
+## 3. Collaboration with Git
+
+Write the steps to clone a repository, pull the latest changes, and submit a pull request to a teammate.
+
+## Bonus exercise
+Create a short notebook or lesson outline that connects all three topics in this module. Include one real-world example and one teaching tip.

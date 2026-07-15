@@ -1,11 +1,18 @@
-# Exercises: 1.2 Oop For Ai
+# Exercises — 1.2 Oop For Ai 1 Beginner
 
-This exercise set supports the 1 Beginner level. Complete each challenge to master the module.
+Complete these challenges to strengthen your understanding and build confidence.
 
-1. **Exercise 1**: Describe what you learned from `Classes and objects basics` and provide one working example.
-2. **Exercise 2**: Describe what you learned from `Attributes, methods, and encapsulation` and provide one working example.
-3. **Exercise 3**: Describe what you learned from `Inheritance and simple hierarchies` and provide one working example.
-4. **Exercise 4**: Describe what you learned from `Classes and objects basics` and provide one working example.
-5. **Exercise 5**: Describe what you learned from `Attributes, methods, and encapsulation` and provide one working example.
+## 1. Classes and Objects
 
-Bonus: Create a mini project that ties together the main topics in this module.
+Define a class for an AI experiment with name and status, then create an instance and print its state.
+
+## 2. Attributes and Methods
+
+Add a method to a class that updates its status and prints a summary message.
+
+## 3. Inheritance
+
+Create a base class and subclass it with one new method or property.
+
+## Bonus exercise
+Create a short notebook or lesson outline that connects all three topics in this module. Include one real-world example and one teaching tip.

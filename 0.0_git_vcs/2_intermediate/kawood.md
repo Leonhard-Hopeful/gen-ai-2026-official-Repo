@@ -1,43 +1,36 @@
-# Kawood Quiz: 0.0 Git Vcs 2 Intermediate
+# Kawood Quiz — 0.0 Git Vcs 2 Intermediate
 
-Use these multiple-choice questions for interactive review sessions.
+Answer these multiple-choice questions to unlock the next course challenge.
 
-## Question 1
-What is the primary purpose of Branching and Merging?
-- A. To ...
-- B. To ...
-- C. To ...
-- D. To ...
+## Question 1: Branching and Merging
+
+Which statement best describes the primary purpose of Branching and Merging?
+
+- A. Combine work from two different branches safely.
+- B. Store large model files in Git.
+- C. Run branch performance tests.
+- D. Use a single main branch only.
+
 Answer: A
 
-## Question 2
-When should you use Git workflows for teams?
-- A. For ...
-- B. For ...
-- C. For ...
-- D. For ...
-Answer: C
+## Question 2: Git Workflows for Teams
 
-## Question 3
-Which statement is true about Pull requests and review cycles?
-- A. ...
-- B. ...
-- C. ...
-- D. ...
-Answer: B
+Which statement best describes the primary purpose of Git Workflows for Teams?
 
-## Question 4
-What is a common mistake when applying Branching and Merging?
-- A. ...
-- B. ...
-- C. ...
-- D. ...
-Answer: D
+- A. Choose a team process for handling feature development.
+- B. Write code review comments automatically.
+- C. Execute a Docker workflow.
+- D. Manage Python packages.
 
-## Question 5
-How does Git workflows for teams help AI development?
-- A. ...
-- B. ...
-- C. ...
-- D. ...
-Answer: B
+Answer: A
+
+## Question 3: Code Review and Quality
+
+Which statement best describes the primary purpose of Code Review and Quality?
+
+- A. Review small changes and share feedback before merge.
+- B. Publish code to a public website.
+- C. Create a new branch for each commit.
+- D. Delete merged branches immediately.
+
+Answer: A

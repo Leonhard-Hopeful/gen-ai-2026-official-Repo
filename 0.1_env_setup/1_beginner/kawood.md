@@ -1,43 +1,36 @@
-# Kawood Quiz: 0.1 Env Setup 1 Beginner
+# Kawood Quiz — 0.1 Env Setup 1 Beginner
 
-Use these multiple-choice questions for interactive review sessions.
+Answer these multiple-choice questions to unlock the next course challenge.
 
-## Question 1
-What is the primary purpose of Python setup and installation?
-- A. To ...
-- B. To ...
-- C. To ...
-- D. To ...
+## Question 1: Python Setup
+
+Which statement best describes the primary purpose of Python Setup?
+
+- A. Install Python and confirm the runtime environment.
+- B. Write the first AI algorithm in Python.
+- C. Deploy the Python app to the cloud.
+- D. Create a Git repository for Python code.
+
 Answer: A
 
-## Question 2
-When should you use IDE and editor basics?
-- A. For ...
-- B. For ...
-- C. For ...
-- D. For ...
-Answer: C
+## Question 2: Virtual Environments
 
-## Question 3
-Which statement is true about Virtual environments and isolation?
-- A. ...
-- B. ...
-- C. ...
-- D. ...
-Answer: B
+Which statement best describes the primary purpose of Virtual Environments?
 
-## Question 4
-What is a common mistake when applying Python setup and installation?
-- A. ...
-- B. ...
-- C. ...
-- D. ...
-Answer: D
+- A. Isolate project libraries so dependencies do not conflict.
+- B. Install Python packages globally for all projects.
+- C. Run Python in a web browser.
+- D. Create a backup of your virtual environment.
 
-## Question 5
-How does IDE and editor basics help AI development?
-- A. ...
-- B. ...
-- C. ...
-- D. ...
-Answer: B
+Answer: A
+
+## Question 3: IDE and Editor Tools
+
+Which statement best describes the primary purpose of IDE and Editor Tools?
+
+- A. Use editor features like linting, debugging, and notebooks to code efficiently.
+- B. Install Python packages from the editor only.
+- C. Run a Python web server inside the IDE.
+- D. Use the editor to write only markdown files.
+
+Answer: A

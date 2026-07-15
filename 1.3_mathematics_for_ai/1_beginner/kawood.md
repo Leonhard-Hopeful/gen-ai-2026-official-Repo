@@ -1,43 +1,36 @@
-# Kawood Quiz: 1.3 Mathematics For Ai 1 Beginner
+# Kawood Quiz — 1.3 Mathematics For Ai 1 Beginner
 
-Use these multiple-choice questions for interactive review sessions.
+Answer these multiple-choice questions to unlock the next course challenge.
 
-## Question 1
-What is the primary purpose of Scalars, vectors, and coordinates?
-- A. To ...
-- B. To ...
-- C. To ...
-- D. To ...
+## Question 1: Vectors and Scalars
+
+Which statement best describes the primary purpose of Vectors and Scalars?
+
+- A. Represent data points and compute their size using vectors.
+- B. Use scalars only for strings.
+- C. Avoid vectors in AI entirely.
+- D. Store coordinates as booleans.
+
 Answer: A
 
-## Question 2
-When should you use Linear equations and systems?
-- A. For ...
-- B. For ...
-- C. For ...
-- D. For ...
-Answer: C
+## Question 2: Linear Equations
 
-## Question 3
-Which statement is true about Basic statistics for AI?
-- A. ...
-- B. ...
-- C. ...
-- D. ...
-Answer: B
+Which statement best describes the primary purpose of Linear Equations?
 
-## Question 4
-What is a common mistake when applying Scalars, vectors, and coordinates?
-- A. ...
-- B. ...
-- C. ...
-- D. ...
-Answer: D
+- A. Solve simple linear relationships that form the basis of many models.
+- B. Use equations only for algebra class.
+- C. Avoid equations in AI modeling.
+- D. Treat every function as non-linear.
 
-## Question 5
-How does Linear equations and systems help AI development?
-- A. ...
-- B. ...
-- C. ...
-- D. ...
-Answer: B
+Answer: A
+
+## Question 3: Basic Statistics
+
+Which statement best describes the primary purpose of Basic Statistics?
+
+- A. Summarize data with mean, median, and spread to understand patterns.
+- B. Use random numbers only.
+- C. Ignore data distributions completely.
+- D. Always choose the same statistic for every dataset.
+
+Answer: A

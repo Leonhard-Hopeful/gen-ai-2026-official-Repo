@@ -1,11 +1,18 @@
-# Exercises: 1.3 Mathematics For Ai
+# Exercises — 1.3 Mathematics For Ai 1 Beginner
 
-This exercise set supports the 1 Beginner level. Complete each challenge to master the module.
+Complete these challenges to strengthen your understanding and build confidence.
 
-1. **Exercise 1**: Describe what you learned from `Scalars, vectors, and coordinates` and provide one working example.
-2. **Exercise 2**: Describe what you learned from `Linear equations and systems` and provide one working example.
-3. **Exercise 3**: Describe what you learned from `Basic statistics for AI` and provide one working example.
-4. **Exercise 4**: Describe what you learned from `Scalars, vectors, and coordinates` and provide one working example.
-5. **Exercise 5**: Describe what you learned from `Linear equations and systems` and provide one working example.
+## 1. Vectors and Scalars
 
-Bonus: Create a mini project that ties together the main topics in this module.
+Define a vector and compute its magnitude using Python. Explain what the result means.
+
+## 2. Linear Equations
+
+Solve a simple linear equation manually and confirm the solution with Python.
+
+## 3. Basic Statistics
+
+Compute the mean, median, and variance for a small dataset in Python.
+
+## Bonus exercise
+Create a short notebook or lesson outline that connects all three topics in this module. Include one real-world example and one teaching tip.

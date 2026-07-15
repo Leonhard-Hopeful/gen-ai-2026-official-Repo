@@ -1,11 +1,18 @@
-# Exercises: 1.1 Python Programming
+# Exercises — 1.1 Python Programming 1 Beginner
 
-This exercise set supports the 1 Beginner level. Complete each challenge to master the module.
+Complete these challenges to strengthen your understanding and build confidence.
 
-1. **Exercise 1**: Describe what you learned from `Variables and assignment` and provide one working example.
-2. **Exercise 2**: Describe what you learned from `Built-in data types` and provide one working example.
-3. **Exercise 3**: Describe what you learned from `Conditionals and loops` and provide one working example.
-4. **Exercise 4**: Describe what you learned from `Variables and assignment` and provide one working example.
-5. **Exercise 5**: Describe what you learned from `Built-in data types` and provide one working example.
+## 1. Variables and Assignment
 
-Bonus: Create a mini project that ties together the main topics in this module.
+Declare three variables of different types and print a sentence using those variables.
+
+## 2. Python Data Types
+
+Identify types for several values and convert one integer to a string and one string to a number.
+
+## 3. Control Flow
+
+Write a program that prints "Pass" or "Fail" depending on a score using if/else.
+
+## Bonus exercise
+Create a short notebook or lesson outline that connects all three topics in this module. Include one real-world example and one teaching tip.

@@ -1,11 +1,18 @@
-# Exercises: 0.1 Env Setup
+# Exercises — 0.1 Env Setup 3 Advanced
 
-This exercise set supports the 3 Advanced level. Complete each challenge to master the module.
+Complete these challenges to strengthen your understanding and build confidence.
 
-1. **Exercise 1**: Describe what you learned from `Reproducible deployment pipelines` and provide one working example.
-2. **Exercise 2**: Describe what you learned from `AI DevOps workflows` and provide one working example.
-3. **Exercise 3**: Describe what you learned from `Scaling local and cloud setups` and provide one working example.
-4. **Exercise 4**: Describe what you learned from `Reproducible deployment pipelines` and provide one working example.
-5. **Exercise 5**: Describe what you learned from `AI DevOps workflows` and provide one working example.
+## 1. Reproducible Pipelines
 
-Bonus: Create a mini project that ties together the main topics in this module.
+Create a simple shell or Python script that sets up the project dependencies and describe why it is reproducible.
+
+## 2. AI DevOps
+
+Sketch a CI pipeline for an AI course that runs tests and linting on every push.
+
+## 3. Scaling Environments
+
+Describe when a team should switch from a local environment to a cloud environment for AI development.
+
+## Bonus exercise
+Create a short notebook or lesson outline that connects all three topics in this module. Include one real-world example and one teaching tip.

@@ -1,11 +1,18 @@
-# Exercises: 0.1 Env Setup
+# Exercises — 0.1 Env Setup 2 Intermediate
 
-This exercise set supports the 2 Intermediate level. Complete each challenge to master the module.
+Complete these challenges to strengthen your understanding and build confidence.
 
-1. **Exercise 1**: Describe what you learned from `Managing Python environments` and provide one working example.
-2. **Exercise 2**: Describe what you learned from `Dependencies and package pinning` and provide one working example.
-3. **Exercise 3**: Describe what you learned from `Docker and reproducible environments` and provide one working example.
-4. **Exercise 4**: Describe what you learned from `Managing Python environments` and provide one working example.
-5. **Exercise 5**: Describe what you learned from `Dependencies and package pinning` and provide one working example.
+## 1. Environment Management
 
-Bonus: Create a mini project that ties together the main topics in this module.
+Create or describe a second isolated environment for a new AI project and explain why isolation matters.
+
+## 2. Dependency Management
+
+Install a package, freeze the environment, and explain the purpose of the generated requirements file.
+
+## 3. Containerization Basics
+
+Write a minimal Dockerfile for a Python project and explain why containers improve reproducibility.
+
+## Bonus exercise
+Create a short notebook or lesson outline that connects all three topics in this module. Include one real-world example and one teaching tip.

@@ -1,11 +1,18 @@
-# Exercises: 1.1 Python Programming
+# Exercises — 1.1 Python Programming 3 Advanced
 
-This exercise set supports the 3 Advanced level. Complete each challenge to master the module.
+Complete these challenges to strengthen your understanding and build confidence.
 
-1. **Exercise 1**: Describe what you learned from `Testing, debugging, and error handling` and provide one working example.
-2. **Exercise 2**: Describe what you learned from `Performance, profiling, and optimization` and provide one working example.
-3. **Exercise 3**: Describe what you learned from `Automation scripts and CLI tools` and provide one working example.
-4. **Exercise 4**: Describe what you learned from `Testing, debugging, and error handling` and provide one working example.
-5. **Exercise 5**: Describe what you learned from `Performance, profiling, and optimization` and provide one working example.
+## 1. Testing and Debugging
 
-Bonus: Create a mini project that ties together the main topics in this module.
+Introduce a bug into a simple function, use assertions to catch it, and then fix the bug.
+
+## 2. Performance and Optimization
+
+Compare the runtime of two methods that do the same task and explain which is faster and why.
+
+## 3. Automation Scripts
+
+Write a small script that accepts a command-line argument and prints a message based on that argument.
+
+## Bonus exercise
+Create a short notebook or lesson outline that connects all three topics in this module. Include one real-world example and one teaching tip.

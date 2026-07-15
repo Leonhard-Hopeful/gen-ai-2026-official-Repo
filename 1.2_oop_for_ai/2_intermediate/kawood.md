@@ -1,43 +1,36 @@
-# Kawood Quiz: 1.2 Oop For Ai 2 Intermediate
+# Kawood Quiz — 1.2 Oop For Ai 2 Intermediate
 
-Use these multiple-choice questions for interactive review sessions.
+Answer these multiple-choice questions to unlock the next course challenge.
 
-## Question 1
-What is the primary purpose of Polymorphism and abstract design?
-- A. To ...
-- B. To ...
-- C. To ...
-- D. To ...
+## Question 1: Polymorphism
+
+Which statement best describes the primary purpose of Polymorphism?
+
+- A. Write code that works with different object types through a common interface.
+- B. Use the same variable names for all objects.
+- C. Convert all classes into functions.
+- D. Use a single class only for all tasks.
+
 Answer: A
 
-## Question 2
-When should you use Composition and reusable AI components?
-- A. For ...
-- B. For ...
-- C. For ...
-- D. For ...
-Answer: C
+## Question 2: Composition
 
-## Question 3
-Which statement is true about OOP design patterns for AI?
-- A. ...
-- B. ...
-- C. ...
-- D. ...
-Answer: B
+Which statement best describes the primary purpose of Composition?
 
-## Question 4
-What is a common mistake when applying Polymorphism and abstract design?
-- A. ...
-- B. ...
-- C. ...
-- D. ...
-Answer: D
+- A. Combine objects to build complex systems without deep inheritance.
+- B. Use inheritance in every design.
+- C. Avoid objects and use only functions.
+- D. Store all dependencies in a global scope.
 
-## Question 5
-How does Composition and reusable AI components help AI development?
-- A. ...
-- B. ...
-- C. ...
-- D. ...
-Answer: B
+Answer: A
+
+## Question 3: Design Patterns
+
+Which statement best describes the primary purpose of Design Patterns?
+
+- A. Apply proven structures to solve common design problems.
+- B. Write design rules in comments only.
+- C. Use design patterns only for UI code.
+- D. Use patterns to avoid testing code.
+
+Answer: A

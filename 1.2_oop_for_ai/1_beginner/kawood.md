@@ -1,43 +1,36 @@
-# Kawood Quiz: 1.2 Oop For Ai 1 Beginner
+# Kawood Quiz — 1.2 Oop For Ai 1 Beginner
 
-Use these multiple-choice questions for interactive review sessions.
+Answer these multiple-choice questions to unlock the next course challenge.
 
-## Question 1
-What is the primary purpose of Classes and objects basics?
-- A. To ...
-- B. To ...
-- C. To ...
-- D. To ...
+## Question 1: Classes and Objects
+
+Which statement best describes the primary purpose of Classes and Objects?
+
+- A. Model real-world entities with classes and objects.
+- B. Store all code in one function.
+- C. Use classes only for GUIs.
+- D. Avoid objects in Python completely.
+
 Answer: A
 
-## Question 2
-When should you use Attributes, methods, and encapsulation?
-- A. For ...
-- B. For ...
-- C. For ...
-- D. For ...
-Answer: C
+## Question 2: Attributes and Methods
 
-## Question 3
-Which statement is true about Inheritance and simple hierarchies?
-- A. ...
-- B. ...
-- C. ...
-- D. ...
-Answer: B
+Which statement best describes the primary purpose of Attributes and Methods?
 
-## Question 4
-What is a common mistake when applying Classes and objects basics?
-- A. ...
-- B. ...
-- C. ...
-- D. ...
-Answer: D
+- A. Give objects state and behavior with attributes and methods.
+- B. Store functions outside classes only.
+- C. Use attributes as separate functions.
+- D. Avoid defining methods altogether.
 
-## Question 5
-How does Attributes, methods, and encapsulation help AI development?
-- A. ...
-- B. ...
-- C. ...
-- D. ...
-Answer: B
+Answer: A
+
+## Question 3: Inheritance
+
+Which statement best describes the primary purpose of Inheritance?
+
+- A. Share common behavior across related classes safely.
+- B. Duplicate code between classes for clarity.
+- C. Use inheritance for all data storage needs.
+- D. Avoid using any base class.
+
+Answer: A

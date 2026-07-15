@@ -1,43 +1,36 @@
-# Kawood Quiz: 0.1 Env Setup 3 Advanced
+# Kawood Quiz — 0.1 Env Setup 3 Advanced
 
-Use these multiple-choice questions for interactive review sessions.
+Answer these multiple-choice questions to unlock the next course challenge.
 
-## Question 1
-What is the primary purpose of Reproducible deployment pipelines?
-- A. To ...
-- B. To ...
-- C. To ...
-- D. To ...
+## Question 1: Reproducible Pipelines
+
+Which statement best describes the primary purpose of Reproducible Pipelines?
+
+- A. Automate the same setup and training sequence reliably.
+- B. Build a pipeline that only runs once.
+- C. Push data directly to production without checks.
+- D. Use random settings for each experiment.
+
 Answer: A
 
-## Question 2
-When should you use AI DevOps workflows?
-- A. For ...
-- B. For ...
-- C. For ...
-- D. For ...
-Answer: C
+## Question 2: AI DevOps
 
-## Question 3
-Which statement is true about Scaling local and cloud setups?
-- A. ...
-- B. ...
-- C. ...
-- D. ...
-Answer: B
+Which statement best describes the primary purpose of AI DevOps?
 
-## Question 4
-What is a common mistake when applying Reproducible deployment pipelines?
-- A. ...
-- B. ...
-- C. ...
-- D. ...
-Answer: D
+- A. Combine AI development and operations through pipelines and monitoring.
+- B. Build models only for deployment.
+- C. Store all experiments in Git branches.
+- D. Create frequent manual releases.
 
-## Question 5
-How does AI DevOps workflows help AI development?
-- A. ...
-- B. ...
-- C. ...
-- D. ...
-Answer: B
+Answer: A
+
+## Question 3: Scaling Environments
+
+Which statement best describes the primary purpose of Scaling Environments?
+
+- A. Expand development from local machines to shared cloud environments.
+- B. Only work on small datasets to avoid scaling issues.
+- C. Replace Python with a faster language when scaling.
+- D. Store all logs locally to reduce costs.
+
+Answer: A
