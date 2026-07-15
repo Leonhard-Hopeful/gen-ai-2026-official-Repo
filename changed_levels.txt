@@ -1,0 +1,11 @@
+c:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\gen-ai-full-course\0.0_git_vcs\1_beginner
+c:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\gen-ai-full-course\0.0_git_vcs\2_intermediate
+c:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\gen-ai-full-course\0.1_env_setup\1_beginner
+c:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\gen-ai-full-course\0.1_env_setup\2_intermediate
+c:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\gen-ai-full-course\0.1_env_setup\3_advanced
+c:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\gen-ai-full-course\1.1_python_programming\1_beginner
+c:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\gen-ai-full-course\1.1_python_programming\3_advanced
+c:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\gen-ai-full-course\1.2_oop_for_ai\1_beginner
+c:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\gen-ai-full-course\1.2_oop_for_ai\2_intermediate
+c:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\gen-ai-full-course\1.3_mathematics_for_ai\1_beginner
+c:\Users\THE EYE INFORMATIQUE\OneDrive\Desktop\gen-ai-full-course\1.3_mathematics_for_ai\2_intermediate
