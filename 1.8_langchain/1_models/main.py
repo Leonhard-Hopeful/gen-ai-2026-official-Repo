@@ -9,6 +9,7 @@ os.environ["GOOGLE_API_KEY"]=os.getenv("GOOGLE_API_KEY")
 
 model=init_chat_model("google_genai:gemini-2.5-flash")
 
-print(model)
+print(model.invoke("tell me a short story abou Leo Messi"))
 
 
+# 
