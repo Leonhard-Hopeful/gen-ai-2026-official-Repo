@@ -49,8 +49,6 @@ Your package has `_internal_helper()` and `public_function()`. Why the underscor
 - A. Underscore signals "internal, don't depend on this"—users know the function might change without warning; public functions are stable API—this manages expectations and prevents breakage
 - B. Underscores have no meaning
 - C. All functions are equally stable
-- D) Naming conventions don't matter
-
 **Answer: A** — Naming conventions communicate stability.
 
 ---
