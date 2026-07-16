@@ -55,9 +55,6 @@ After installing Python, `pip --version` fails. What's likely wrong?
 Python installation appeared to succeed, but `import sys` fails in a script. What diagnostics would you run?
 - A. Verify interpreter path (`which python` on Unix, `where python` on Windows); check `python --version` matches expected version; run `python -c "import sys; print(sys.executable)"`—these reveal path mismatches and silent failures
 - B. Just reinstall
-- C) These diagnostics aren't useful
-- D. Just give up
-
 **Answer: A** — Diagnostics reveal the discrepancy between expectation and reality.
 
 ---

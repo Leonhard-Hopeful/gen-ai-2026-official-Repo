@@ -6,9 +6,6 @@ Master virtual environments to isolate project dependencies and build reproducib
 Your machine has 20 projects with different dependency versions: Project A needs Django 3.2, Project B needs Django 4.0. Both use Python 3.11. If you install globally, what breaks?
 - A. One project's pip install overwrites the other's—without isolation, the last pip install globally wins; projects conflict because they share one set of installed packages; venv solves this by giving each project its own installation directory
 - B. Both versions can coexist globally
-- C) Dependency conflicts are impossible
-- D. Use different Python versions instead
-
 **Answer: A** — Virtualenvs are namespace isolation for dependencies.
 
 ---
