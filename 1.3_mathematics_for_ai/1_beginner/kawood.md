@@ -9,22 +9,14 @@ Which statement best describes the primary purpose of Vectors and Scalars?
 - A. Represent data points and compute their size using vectors.
 - B. Use scalars only for strings.
 - C. Avoid vectors in AI entirely.
-- D. Store coordinates as booleans.
-
-Answer: A
-
-## Question 2: Linear Equations
+- D. Store coordinates as booleans.## Question 2: Linear Equations
 
 Which statement best describes the primary purpose of Linear Equations?
 
 - A. Solve simple linear relationships that form the basis of many models.
 - B. Use equations only for algebra class.
 - C. Avoid equations in AI modeling.
-- D. Treat every function as non-linear.
-
-Answer: A
-
-## Question 3: Basic Statistics
+- D. Treat every function as non-linear.## Question 3: Basic Statistics
 
 Which statement best describes the primary purpose of Basic Statistics?
 
@@ -32,5 +24,3 @@ Which statement best describes the primary purpose of Basic Statistics?
 - B. Use random numbers only.
 - C. Ignore data distributions completely.
 - D. Always choose the same statistic for every dataset.
-
-Answer: A
