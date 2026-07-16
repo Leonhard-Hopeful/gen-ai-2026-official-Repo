@@ -9,22 +9,14 @@ Which statement best describes the primary purpose of Environment Management?
 - A. Manage separate environments for separate projects.
 - B. Install all tools globally with one command.
 - C. Use Git for environment management.
-- D. Store environment variables in the code.
-
-Answer: A
-
-## Question 2: Dependency Management
+- D. Store environment variables in the code.## Question 2: Dependency Management
 
 Which statement best describes the primary purpose of Dependency Management?
 
 - A. Track and pin package versions for reproducible installs.
 - B. Delete unused packages immediately.
 - C. Install packages from multiple sources without restrictions.
-- D. Use Docker instead of package managers.
-
-Answer: A
-
-## Question 3: Containerization Basics
+- D. Use Docker instead of package managers.## Question 3: Containerization Basics
 
 Which statement best describes the primary purpose of Containerization Basics?
 
@@ -32,5 +24,3 @@ Which statement best describes the primary purpose of Containerization Basics?
 - B. Run Python scripts faster than native execution.
 - C. Store data files inside Git repositories.
 - D. Automatically scale AI models.
-
-Answer: A
