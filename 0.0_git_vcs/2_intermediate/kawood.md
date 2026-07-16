@@ -9,22 +9,14 @@ Which statement best describes the primary purpose of Branching and Merging?
 - A. Combine work from two different branches safely.
 - B. Store large model files in Git.
 - C. Run branch performance tests.
-- D. Use a single main branch only.
-
-Answer: A
-
-## Question 2: Git Workflows for Teams
+- D. Use a single main branch only.## Question 2: Git Workflows for Teams
 
 Which statement best describes the primary purpose of Git Workflows for Teams?
 
 - A. Choose a team process for handling feature development.
 - B. Write code review comments automatically.
 - C. Execute a Docker workflow.
-- D. Manage Python packages.
-
-Answer: A
-
-## Question 3: Code Review and Quality
+- D. Manage Python packages.## Question 3: Code Review and Quality
 
 Which statement best describes the primary purpose of Code Review and Quality?
 
@@ -32,5 +24,3 @@ Which statement best describes the primary purpose of Code Review and Quality?
 - B. Publish code to a public website.
 - C. Create a new branch for each commit.
 - D. Delete merged branches immediately.
-
-Answer: A
