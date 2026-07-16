@@ -9,22 +9,14 @@ Which statement best describes the primary purpose of Data Structures?
 - A. Organize data in lists, dictionaries, sets, or tuples depending on the need.
 - B. Always store data as text strings.
 - C. Use dictionaries for sequential indexing only.
-- D. Use tuples when data must change frequently.
-
-Answer: A
-
-## Question 2: Functions and Modular Code
+- D. Use tuples when data must change frequently.## Question 2: Functions and Modular Code
 
 Which statement best describes the primary purpose of Functions and Modular Code?
 
 - A. Encapsulate reusable behavior and simplify code.
 - B. Make code run faster automatically.
 - C. Replace all comments with function names.
-- D. Store variables inside functions only.
-
-Answer: A
-
-## Question 3: Modules and Packages
+- D. Store variables inside functions only.## Question 3: Modules and Packages
 
 Which statement best describes the primary purpose of Modules and Packages?
 
@@ -32,5 +24,3 @@ Which statement best describes the primary purpose of Modules and Packages?
 - B. Run code only from the root folder.
 - C. Use a package for each variable type.
 - D. Avoid importing any libraries.
-
-Answer: A
